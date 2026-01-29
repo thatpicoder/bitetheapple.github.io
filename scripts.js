@@ -1,1 +1,1 @@
-/* Place your JavaScript in this file */
+/* you really thought you would find something in here hahahah */
