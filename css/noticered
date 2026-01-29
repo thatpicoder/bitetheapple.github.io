@@ -1,0 +1,13 @@
+        div.notice1 {
+        background-color: tomato;
+        border: 3px solid red;
+        text-align: center;
+        opacity: 0.5
+         }
+        </style>
+
+        <style>
+        p {
+        opacity: 1;
+        z-index: 3;
+         }
