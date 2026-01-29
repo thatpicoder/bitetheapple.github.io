@@ -3,7 +3,9 @@
   justify-content: center;
   gap: 16px;              /* space between buttons */
   margin-top: 30px;
-  flex-wrap: wrap;        /* mobile friendly */
+  flex-wrap: wrap; /* mobile friendly */
+  align-items: centered;
+  
 }
 
 .btn {
