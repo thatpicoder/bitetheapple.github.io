@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>Repos</title>
+
+        <link rel="icon" type="image/x-icon" href="../favicon.ico">
+
+        <link rel="stylesheet" href="../css/applejbtop.css">
+
+        <link rel="preload"
+      href="../fonts/SFProDisplay-Regular.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin>
+
+        <link rel="stylesheet" href="../css/sfprofontload.css">
+        
+        <link rel="stylesheet" href="../css/line.css">
+
+        <link rel="stylesheet" href="../css/titlepagebuttons.css">
+
+        <link rel="stylesheet" href="../css/table.css">
+
+        <link rel="stylesheet" href="../css/noticered.css">
+
+        </head>
+
+    <body>
+
+      <div class="header">
+
+      <a href="../index.html" class="home-btn">
+
+      <img src="../images/applelogo.png" alt="apple logo" class="logo">
+
+      </a>
+
+      <span class="title">Apple JB</span>
+
+        </div>
+
+        <hr>
+
+    <h1>bitetheapple's repositories</h1>
+
+   <p>This place will take you to all of bitetheapple's repos, including Cydia and AltStore.</p>
+
+<div class="notice1">
+<p>Repos for Cydia, Sileo, Zebra, and AltStore/SideStore <b>do not work</b> since they have not been built yet. test build v1 <b>DO NOT ADD TO INDEX PAGE. AUTHORIZED PEOPLE ONLY.</b></p>
+</div>
+
+   <hr>
+
+  <a href="cydia://url/bitetheapple.org/cydia" class="btn"">Add to Cydia</a>
+
+ <a href="sileo://source/bitetheapple.org/sileo" class="btn">Add to Sileo</a>
+
+<a href="zbra://sources/bitetheapple.org/sileo" class="btn">Add to Zebra</a>
+
+<a href="altstore://bitetheapple.org/altstore" class="btn">Add to AltStore/SideStore</a>
+
+
+        </body>
+
+        </html>
