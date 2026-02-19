@@ -1,6 +1,8 @@
- hr {
-    border: none;
-    height: 6px;
-    background-color: tomato
-
- }
+hr {
+  border: none;
+  height: 6px;
+  background-color: tomato;
+  margin: 12px auto;
+  width: 220px; /* optional */
+  border-radius: 3px;
+}
