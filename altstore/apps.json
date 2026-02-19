@@ -3,7 +3,7 @@
   "identifier": "org.bitetheapple.repo",
   "subtitle": "jailbreak tools & cool apps",
   "description": "trusted and official jailbreak tools and apps.",
-  "iconURL": "https://bitetheapple.org/images/repo-icon.png",
+  "iconURL": "https://bitetheapple.org/altstore/repo-icon.png",
   "apps": [
     {
       "name": "Flappy Bird",
