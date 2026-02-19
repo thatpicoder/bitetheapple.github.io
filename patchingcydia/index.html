@@ -38,7 +38,7 @@
 
 <h1>Patching Cydia on old devices</h1>
 
-<p>On older devices, from iOS 1.0 to iOS 7.0.x, Cydia gives a "Unable to Load" error. This is because <a href="https://cydia.saurik.com">cydia.saurik.com</a> is signed with the DigiCert Global Root G2 cert, which Apple added to iOS 7.1 by default.</p>
+<p>On older devices, from iOS 1.0 to iOS 7.1.2, Cydia gives a "Unable to Load" error. This is because <a href="https://cydia.saurik.com">cydia.saurik.com</a> is signed with the DigiCert Global Root G2 cert, which Apple added to iOS 7.1.2 by default.</p>
 
 <p>This error can be easily fixed, and will get you in the Cydia homepage in no time!</p>
 
@@ -48,35 +48,39 @@
 
 <hr>
 
-  <h1>Primary guide</h1>
+        <h1>Guide</h1>
 
-   <div class="notice1">
-       <p>Please note if this guide doesn't work for whatever reason, move to the alternate guide.</p>
-   </div>     
+        <div class="notice1">
 
-<ol>
-    <li>Open Cydia, go to the Sources tab, and press Edit.</li>
-    <li>Type the repo "http://cydia.invoxiplaygames.uk" and add it.</li>
-    <li>Tap on the new repo called "IPG's Cydia Repo", tap the section called "Tweaks", and find "Cydia HTTPatch".</li>
-    <li>Tap "Install", then "Confirm", then wait until "Close" appears in the top-right corner.</li>
-    <li>Cydia should close, and we you re-open it, it should be patched.</li>
-</ol>
+        <p>There are 2 different ways to do this.</p>
 
-        <p>If this didn't work, move on to the <b>alternate guide.</b></p>
+        </div>
 
         <hr>
 
-        <h1>Alternate guide</h1>
-
-        <p>This is an alternate guide, only if the primary guide didn't work.</p>
+        <h2>From iPhoneOS 1.0-iOS 4.3.5</h2>
         
         <ol>
             <li>First, go to <a href="https://tlsroot.litten.ca">tlsroot.litten.ca</a>.</li>
-            <li>Then, install the certificate called "DigiCert Global Root G2".</li>
-            <li>Next, install the certificate called "DigiCert Global Root G3".</li>
+            <li>Then, press the button that says "Unsigned iOS Bundle".</li>
+            <li>Press "Install" all the times it tells you.</li>
         </ol>
-        <p>Cydia should now be patched. It is recommended to install all the certificates to fix more things you may not know about.</p>
-        <p>You can install all the certs separately, or just use <a href="http://www.victorlobe.me/files/ioslegacycerts.mobileconfig">this bundle</a> to install all of them in one go.</p>
+        
+        <p>Cydia should now be patched. You can now use modern repos and see the Cydia homepage.</p>
+
+        <hr>
+
+        <h2>From iOS 5.0-iOS 7.1.2</h2>
+
+                <ol>
+            <li>First, go to <a href="https://tlsroot.litten.ca">tlsroot.litten.ca</a>.</li>
+            <li>Then, press the button that says "Signed iOS Bundle (iOS 5+)".</li>
+            <li>Press "Install" all the times it tells you.</li>
+        </ol>
+
+        <p>Cydia should now be patched. You can now use modern repos and see the Cydia homepage.</p>
+
+        
         </body>
 
         </html>
