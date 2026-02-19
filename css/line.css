@@ -2,7 +2,6 @@ hr {
   border: none;
   height: 6px;
   background-color: tomato;
-  margin: 12px auto;
-  width: 220px; /* optional */
-  border-radius: 3px;
+  width: 80%;
+  margin: 10px 0 10px 0;
 }
