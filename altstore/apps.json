@@ -26,6 +26,17 @@
       "iconURL": "https://bitetheapple.org/altstore/icons/Dopamine.png",
       "localizedDescription": "Jailbreak for iOS/iPadOS 15.0-16.6.1.",
       "size": 53687091
+    },
+        {
+      "name": "iSH",
+      "bundleIdentifier": "app.ish.iSH",
+      "developerName": "tbodt",
+      "version": "805",
+      "versionDate": "2026-01-13",
+      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds%2F805/iSH.ipaa",
+      "iconURL": "https://bitetheapple.org/altstore/icons/iSH.png",
+      "localizedDescription": "Alpine Linux shell emulator for iOS.",
+      "size": 4602249
     }
   ]
 }
