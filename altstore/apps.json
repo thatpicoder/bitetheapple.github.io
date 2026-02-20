@@ -18,23 +18,25 @@
       "screenshotURLs": [
         "https://bitetheapple.org/altstore/images/flappy-demo.GIF"
       ],
+      "subtitle": "The bird is back."
       "size": 2097152
     },
-    {
-      "name": "Dopamine",
-      "bundleIdentifier": "com.opa334.Dopamine",
-      "developerName": "opa334",
-      "version": "2.4.7",
-      "versionDate": "2026-01-09",
-      "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
-      "iconURL": "https://bitetheapple.org/altstore/icons/Dopamine.png",
-      "localizedDescription": "Jailbreak for iOS/iPadOS 15.0-16.6.1.",
-      "versionDescription": "• Fix an issue where the jailbreaking process would get stuck on "Patchfinding" on some device / version combinations (seemingly affected early iOS 15 arm64 devices the most) [2.4.6 regression]\n• Fix issues with custom boot logos not getting set / not persisting correctly\n• Fix an issue where selecting a picture taken with a camera as the custom boot logo would cause it to have the wrong orientation in some cases",
-      "screenshotURLs": [
-        "https://bitetheapple.org/altstore/images/dopamineapp.PNG"
-      ],
-      "size": 53687091
-    },
+{
+  "name": "Dopamine",
+  "bundleIdentifier": "com.opa334.Dopamine",
+  "developerName": "opa334",
+  "version": "2.4.7",
+  "versionDate": "2026-01-09",
+  "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
+  "iconURL": "https://bitetheapple.org/altstore/icons/Dopamine.png",
+  "localizedDescription": "Jailbreak for iOS/iPadOS 15.0-16.6.1.",
+  "versionDescription": "• Fix an issue where the jailbreaking process would get stuck on \"Patchfinding\" on some device / version combinations (seemingly affected early iOS 15 arm64 devices the most) [2.4.6 regression]\n• Fix issues with custom boot logos not getting set / not persisting correctly\n• Fix an issue where selecting a picture taken with a camera as the custom boot logo would cause it to have the wrong orientation in some cases",
+  "screenshotURLs": [
+    "https://bitetheapple.org/altstore/images/dopamineapp.PNG"
+  ],
+  "subtitle": "iOS 15.0-16.6.1 jailbreak",
+  "size": 53687091
+},
     {
       "name": "iSH",
       "bundleIdentifier": "app.ish.iSH",
@@ -48,6 +50,7 @@
       "screenshotURLs": [
         "https://bitetheapple.org/altstore/images/ishapp.png"
       ],
+      "subtitle": "Linux on iOS",
       "size": 4602249
     }
   ]
