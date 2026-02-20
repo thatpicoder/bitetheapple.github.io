@@ -14,6 +14,10 @@
       "downloadURL": "https://bitetheapple.org/altstore/apps/FlappyBird.ipa",
       "iconURL": "https://bitetheapple.org/altstore/icons/FlappyBird.png",
       "localizedDescription": "Extremely accurate Flappy Bird clone.",
+      "versionDescription": "• Removed anti-cheat\n• Removed Leaderboard\n• Removed Accounts",
+      "screenshotURLs": [
+        "https://bitetheapple.org/altstore/images/flappy-demo.gif"
+      ],
       "size": 2097152
     },
     {
@@ -27,13 +31,13 @@
       "localizedDescription": "Jailbreak for iOS/iPadOS 15.0-16.6.1.",
       "size": 53687091
     },
-        {
+    {
       "name": "iSH",
       "bundleIdentifier": "app.ish.iSH",
       "developerName": "tbodt",
       "version": "805",
       "versionDate": "2026-01-13",
-      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds%2F805/iSH.ipaa",
+      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds%2F805/iSH.ipa",
       "iconURL": "https://bitetheapple.org/altstore/icons/iSH.png",
       "localizedDescription": "Alpine Linux shell emulator for iOS.",
       "size": 4602249
