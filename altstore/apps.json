@@ -44,6 +44,7 @@
       "downloadURL": "https://github.com/ish-app/ish/releases/download/builds%2F805/iSH.ipa",
       "iconURL": "https://bitetheapple.org/altstore/icons/ish.png",
       "localizedDescription": "Alpine Linux shell emulator for iOS.",
+      "versionDescription": "• Daily auto-build",
       "screenshotURLs": [
         "https://bitetheapple.org/altstore/images/ishapp.png"
       ],
