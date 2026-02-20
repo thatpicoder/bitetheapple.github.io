@@ -18,7 +18,8 @@
       "screenshotURLs": [
         "https://bitetheapple.org/altstore/images/flappy-demo.GIF"
       ],
-      "subtitle": "The bird is back."
+      "subtitle": "The bird is back.",
+      "tintColor": "#80EF80",
       "size": 2097152
     },
 {
@@ -35,6 +36,7 @@
     "https://bitetheapple.org/altstore/images/dopamineapp.PNG"
   ],
   "subtitle": "iOS 15.0-16.6.1 jailbreak",
+  "tintColor": "#1E8481",
   "size": 53687091
 },
     {
@@ -51,6 +53,7 @@
         "https://bitetheapple.org/altstore/images/ishapp.png"
       ],
       "subtitle": "Linux on iOS",
+      "tintColor":"#262626",
       "size": 4602249
     }
   ]
