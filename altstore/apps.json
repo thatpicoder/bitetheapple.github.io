@@ -29,6 +29,9 @@
       "downloadURL": "https://github.com/opa334/Dopamine/releases/latest/download/Dopamine.ipa",
       "iconURL": "https://bitetheapple.org/altstore/icons/Dopamine.png",
       "localizedDescription": "Jailbreak for iOS/iPadOS 15.0-16.6.1.",
+      "screenshotURLs": [
+        "https://bitetheapple.org/altstore/images/dopamineapp.PNG"
+      ],
       "size": 53687091
     },
     {
@@ -40,6 +43,9 @@
       "downloadURL": "https://github.com/ish-app/ish/releases/download/builds%2F805/iSH.ipa",
       "iconURL": "https://bitetheapple.org/altstore/icons/ish.png",
       "localizedDescription": "Alpine Linux shell emulator for iOS.",
+      "screenshotURLs": [
+        "https://bitetheapple.org/altstore/images/ishapp.png"
+      ],
       "size": 4602249
     }
   ]
