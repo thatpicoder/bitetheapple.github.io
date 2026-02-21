@@ -20,6 +20,7 @@
       ],
       "subtitle": "The bird is back.",
       "tintColor": "#80EF80",
+      "category": "Games",
       "size": 2097152
     },
 {
@@ -37,6 +38,7 @@
   ],
   "subtitle": "iOS 15.0-16.6.1 jailbreak",
   "tintColor": "#1E8481",
+  "category": "Jailbreak",
   "size": 53687091
 },
     {
@@ -54,12 +56,13 @@
       ],
       "subtitle": "Linux on iOS",
       "tintColor":"#262626",
+      "category": "Utilities",
       "size": 4602249
     },
         {
       "name": "TrollInstallerX",
       "bundleIdentifier": "com.opa334.TrollInstallerX",
-      "developerName": "alfiecg24",
+      "developerName": "alfiecg24 & contributors",
       "version": "1.0.3",
       "versionDate": "2024-09-24",
       "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
@@ -71,6 +74,7 @@
       ],
       "subtitle": "TrollStore for iOS 14.0-16.6.1",
       "tintColor":"#2F7CF6",
+      "category": "Utilities",
       "size": 6889144
     }
   ]
