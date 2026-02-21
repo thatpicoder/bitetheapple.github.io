@@ -76,6 +76,21 @@
       "tintColor":"#2F7CF6",
       "category": "Utilities",
       "size": 6889144
+    },
+    {
+      "name": "TrollInstallerX 20D50",
+      "bundleIdentifier": "com.opa334.TrollInstallerX",
+      "developerName": "alfiecg24 & contributors",
+      "version": "1.0.3",
+      "versionDate": "2024-09-24",
+      "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX-20D50.ipa",
+      "iconURL": "https://bitetheapple.org/altstore/icons/trollinstallerx.png",
+      "localizedDescription": "TrollStore installer for Yellow iPhone 14 Plus on iOS 16.3 ONLY.",
+      "versionDescription": "• This installer is for the Yellow iPhone 14 Plus on iOS 16.3 ONLY.",
+      "subtitle": "TrollStore for Yellow iPhone 14 Plus on iOS 16.3 ONLY. ",
+      "tintColor":"#2F7CF6",
+      "category": "Utilities",
+      "size": 6889144
     }
   ]
 }
