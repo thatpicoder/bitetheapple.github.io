@@ -67,7 +67,7 @@
       "localizedDescription": "TrollStore installer for iOS 14.0-iOS 16.6.1.",
       "versionDescription": "• Update for Xcode 15.4+ compilation\n• Added a temporary fix for yellow iPhone 14 (Plus) devices on iOS 16.3, please use TrollInstallerX-20D50.ipa\n•Removing confusing logging around exploit deinitialisation\n•Fix arm64e devices on iOS 15.7.x that couldn't download the kernelcache by updating libgrabkernel2",
       "screenshotURLs": [
-        "https://bitetheapple.org/altstore/images/trollinstallerxapp.jpg"
+        "https://bitetheapple.org/altstore/images/trollinstallerxapp.JPG"
       ],
       "subtitle": "TrollStore for iOS 14.0-16.6.1",
       "tintColor":"#2F7CF6",
