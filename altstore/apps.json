@@ -67,7 +67,7 @@
       "versionDate": "2024-09-24",
       "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
       "iconURL": "https://bitetheapple.org/altstore/icons/trollinstallerx.png",
-      "localizedDescription": "TrollStore installer for iOS 14.0-iOS 16.6.1.",
+      "localizedDescription": "TrollStore installer for iOS 14.0-iOS 16.6.1. Special compatibility build available on GitHub for Yellow iPhone 14 Plus (iOS 16.3).",
       "versionDescription": "• Update for Xcode 15.4+ compilation\n• Added a temporary fix for yellow iPhone 14 (Plus) devices on iOS 16.3, please use TrollInstallerX-20D50.ipa\n•Removing confusing logging around exploit deinitialisation\n•Fix arm64e devices on iOS 15.7.x that couldn't download the kernelcache by updating libgrabkernel2",
       "screenshotURLs": [
         "https://bitetheapple.org/altstore/images/trollinstallerxapp.JPG"
@@ -78,19 +78,26 @@
       "size": 6889144
     },
     {
-      "name": "TrollInstallerX 20D50",
-      "bundleIdentifier": "com.opa334.TrollInstallerX",
-      "developerName": "alfiecg24 & contributors",
-      "version": "1.0.3",
-      "versionDate": "2024-09-24",
-      "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX-20D50.ipa",
-      "iconURL": "https://bitetheapple.org/altstore/icons/trollinstallerx.png",
-      "localizedDescription": "TrollStore installer for Yellow iPhone 14 Plus on iOS 16.3 ONLY.",
-      "versionDescription": "• This installer is for the Yellow iPhone 14 Plus on iOS 16.3 ONLY.",
-      "subtitle": "TrollStore for Yellow iPhone 14 Plus on iOS 16.3 ONLY. ",
-      "tintColor":"#2F7CF6",
+      "name": "OldOS",
+      "bundleIdentifier": "com.zane.oldos",
+      "developerName": "zzanehip",
+      "version": "2.0",
+      "versionDate": "2025-06-29",
+      "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_1/OldOS.ipa",
+      "iconURL": "https://bitetheapple.org/altstore/icons/oldos.png",
+      "localizedDescription": "Experience iOS 4 on your iPhone again!",
+      "versionDescription": "• Where to begin. This update, and my goal with it, is to bring the project back from the dead so to speak. In doing so, the codebase has been retooled and refactored, APIs have been restored, and compilation errors have been resolved. In the same vein, all (or maybe most?) bugs related to changes in iOS/Swift/SwiftUI over the past few years have been resolved. My goal is to put a new foundation in place to begin building on top of again. In other words, 2.0 returns OldOS to how it once was (and improves it perhaps too).",
+            "screenshotURLs": [
+        "https://bitetheapple.org/altstore/images/Market_1.jpg",
+        "https://bitetheapple.org/altstore/images/Market_2.jpg",
+        "https://bitetheapple.org/altstore/images/Market_3.jpg",
+        "https://bitetheapple.org/altstore/images/Market_4.jpg",
+        "https://bitetheapple.org/altstore/images/Market_5.jpg",
+      ],
+      "subtitle": "iOS 4 on new devices!",
+      "tintColor":"#4A90E2",
       "category": "Utilities",
-      "size": 6889144
+      "size": 108003328
     }
   ]
 }
