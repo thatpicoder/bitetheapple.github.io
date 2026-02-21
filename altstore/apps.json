@@ -55,6 +55,23 @@
       "subtitle": "Linux on iOS",
       "tintColor":"#262626",
       "size": 4602249
+    },
+        {
+      "name": "TrollInstallerX",
+      "bundleIdentifier": "com.opa334.TrollInstallerX",
+      "developerName": "alfiecg24",
+      "version": "1.0.3",
+      "versionDate": "2024-09-24",
+      "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
+      "iconURL": "https://bitetheapple.org/altstore/icons/trollinstallerx.png",
+      "localizedDescription": "TrollStore installer for iOS 14.0-iOS 16.6.1.",
+      "versionDescription": "• Update for Xcode 15.4+ compilation\n• Added a temporary fix for yellow iPhone 14 (Plus) devices on iOS 16.3, please use TrollInstallerX-20D50.ipa\n•Removing confusing logging around exploit deinitialisation\n•Fix arm64e devices on iOS 15.7.x that couldn't download the kernelcache by updating libgrabkernel2",
+      "screenshotURLs": [
+        "https://bitetheapple.org/altstore/images/trollinstallerxapp.jpg"
+      ],
+      "subtitle": "TrollStore for iOS 14.0-16.6.1",
+      "tintColor":"#2F7CF6",
+      "size": 6889144
     }
   ]
 }
