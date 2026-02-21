@@ -11,7 +11,7 @@
       "developerName": "Brandon Plank",
       "version": "4.3",
       "versionDate": "2024-06-14",
-      "downloadURL": "https://bitetheapple.org/altstore/apps/FlappyBird.ipa",
+      "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
       "iconURL": "https://bitetheapple.org/altstore/icons/FlappyBird.png",
       "localizedDescription": "Extremely accurate Flappy Bird clone.",
       "versionDescription": "• Removed anti-cheat\n• Removed Leaderboard\n• Removed Accounts",
