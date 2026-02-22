@@ -30,33 +30,28 @@
   font-size: 24px;
   font-weight: bold;
   cursor: pointer;
+  position: relative;
 }
 
-.notice1 .scroll-text {
+/* wrapper to control motion */
+.notice1 .scroll-wrapper {
   display: inline-block;
-  white-space: nowrap;
-  animation: scroll-left 10s linear infinite;
+  animation: bounce 6s linear infinite alternate;
 }
 
-/* Pause on hover */
-.notice1:hover .scroll-text {
+.notice1:hover .scroll-wrapper,
+.notice1:active .scroll-wrapper {
   animation-play-state: paused;
 }
 
-/* Pause on tap (mobile) */
-.notice1:active .scroll-text {
-  animation-play-state: paused;
-}
-
-/* Optional: style the link */
 .notice1 a {
   color: darkblue;
   text-decoration: underline;
 }
 
-@keyframes scroll-left {
-  from { transform: translateX(100%); }
-  to   { transform: translateX(-100%); }
+@keyframes bounce {
+  from { transform: translateX(0); }
+  to   { transform: translateX(50%); }
 }
 </style>
 
@@ -78,9 +73,9 @@
 
         <hr>
 
-        <div class="notice1">
-  <div class="scroll-text">
-    Join <a href="https://discord.gg/3rY5m2arPp">allCFW!</a>
+<div class="notice1">
+  <div class="scroll-wrapper">
+    Join <a href="https://discord.gg/3rY5m2arPp" target="_blank" rel="noopener">allCFW!</a>
   </div>
 </div>
 
