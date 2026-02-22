@@ -21,14 +21,40 @@
         <link rel="stylesheet" href="../css/titlepagebuttons.css">
 
 <style>
-.marquee {
-  white-space: nowrap;
+.notice1 {
+  background-color: rgba(173, 216, 230, 0.5);
+  border: 1px solid blue;
+  border-radius: 8px;
+  padding: 8px;
   overflow: hidden;
-  display: block;
-  animation: scroll 8s linear infinite;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
 }
 
-@keyframes scroll {
+.notice1 .scroll-text {
+  display: inline-block;
+  white-space: nowrap;
+  animation: scroll-left 10s linear infinite;
+}
+
+/* Pause on hover */
+.notice1:hover .scroll-text {
+  animation-play-state: paused;
+}
+
+/* Pause on tap (mobile) */
+.notice1:active .scroll-text {
+  animation-play-state: paused;
+}
+
+/* Optional: style the link */
+.notice1 a {
+  color: darkblue;
+  text-decoration: underline;
+}
+
+@keyframes scroll-left {
   from { transform: translateX(100%); }
   to   { transform: translateX(-100%); }
 }
@@ -52,7 +78,11 @@
 
         <hr>
 
-        <div class="marquee">Join <a href="https://discord.gg/3rY5m2arPp">allCFW!</a></div>
+        <div class="notice1">
+  <div class="scroll-text">
+    Join <a href="https://discord.gg/3rY5m2arPp">allCFW!</a>
+  </div>
+</div>
 
    <div class="center-wrapper">
      <div class="button-group">
