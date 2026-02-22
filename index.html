@@ -29,29 +29,22 @@
   overflow: hidden;
   font-size: 24px;
   font-weight: bold;
-  cursor: pointer;
-  position: relative;
+  text-align: center;
 }
 
-/* wrapper to control motion */
-.notice1 .scroll-wrapper {
+.notice1 .scroll-text {
   display: inline-block;
-  animation: bounce 6s linear infinite alternate;
+  animation: bounce 3s ease-in-out infinite alternate;
 }
 
-.notice1:hover .scroll-wrapper,
-.notice1:active .scroll-wrapper {
+.notice1:hover .scroll-text,
+.notice1:active .scroll-text {
   animation-play-state: paused;
 }
 
-.notice1 a {
-  color: darkblue;
-  text-decoration: underline;
-}
-
 @keyframes bounce {
-  from { transform: translateX(0); }
-  to   { transform: translateX(50%); }
+  from { transform: translateX(-20px); }
+  to   { transform: translateX(20px); }
 }
 </style>
 
@@ -74,7 +67,7 @@
         <hr>
 
 <div class="notice1">
-  <div class="scroll-wrapper">
+  <div class="scroll-text">
     Join <a href="https://discord.gg/3rY5m2arPp" target="_blank" rel="noopener">allCFW!</a>
   </div>
 </div>
