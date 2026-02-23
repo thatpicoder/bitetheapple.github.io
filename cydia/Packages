@@ -12,7 +12,7 @@ Size: 49472
 MD5sum: d6a31911e878b83e47c6525fa29ecef1
 SHA1: d00d2667c0d5421dddfc70a2734f1d63b972a535
 SHA256: 2bdaac72a6d1b006309b7dd28f51b1e3d351d3d8758fc9f08ca670f1d71eb382
-Section: Tweaks
+Section: Utilities
 Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
@@ -31,7 +31,7 @@ Size: 509868
 MD5sum: f2d62570fe011282c0ad75207a183497
 SHA1: 0d3ecad41729f54ad2348c61feb2fb8ef0ceba55
 SHA256: 59349fb27425e14c185479dcfbb150454ba1083fb1af966293916b28b7ca48ba
-Section: Utilities
+Section: Apps
 Description: Reboot, Shutdown, Respring, go into Safemode
 Tag: purpose::uikit, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible_min::ios8.0
 Author: Teddible (aka Dave1482) <dave1482@dave1482.com>
@@ -51,7 +51,7 @@ Size: 2810
 MD5sum: 93cd24e6c82108068e54435453587ac4
 SHA1: 9eff439f4635d83fffbd9565ca926612d08f2bf9
 SHA256: 4f6fb6fc8743d1f1902513fcda5ba96c3cb189a4fe550b735262e268e78baab4
-Section: Tweaks
+Section: Tweaks (SpringBoard)
 Description: Removes SIM-related alerts from SpringBoard
 Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
 Depiction: http://cydia.invoxiplaygames.uk/dp/simalertsuppression.php
