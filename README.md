@@ -1,13 +1,11 @@
 # 🍏 bitetheapple.org
 
-The source code for **bitetheapple.org** — a static, no-JavaScript jailbreak website built with pure HTML and CSS.
+The source code for **bitetheapple.org** — a jailbreak and AppleCFW website dedicated to its purpose.
 
 ## 🌐 Live Site
 👉 https://bitetheapple.org
 
 ## 🎯 Project Goals
-- Build a real website using **only HTML and CSS**
-- Avoid JavaScript entirely
 - Learn how the web works at a fundamental level
 - Host everything using **GitHub Pages**
 - Keep the site fast, transparent, and hackable
@@ -18,18 +16,7 @@ The source code for **bitetheapple.org** — a static, no-JavaScript jailbreak w
 - A challenge in minimal web design
 - A demonstration that JavaScript is *not* required for most sites
 
-## 🗂️ Repository Structure
-/
-├─ index.html # Homepage
-├─ robots.txt # Allow all crawlers
-├─ sitemap.xml # Search engine index
-├─ css/ # Stylesheets
-├─ images/ # Images & icons
-├─ iphone2g/ # iPhone 2G page
-└─ jailbreaking/ # Jailbreaking section
-
 ## 🚫 What This Repo Does NOT Use
-- ❌ JavaScript
 - ❌ Frameworks
 - ❌ Build tools
 - ❌ Trackers
