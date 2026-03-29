@@ -1,5 +1,11 @@
-For some reason, iPhone images do not load from the CDN. Planning on just getting the images straight from AppleDB, or hosting them here on the root site.
+--Notes--
 
-Subdomains will NOT enforce HTTPS, but they show as encrypted with a valid cert anyway. Do not worry.
+1. For some reason, iPhone images do not load from the CDN. Planning on just getting the images straight from AppleDB, or hosting them here on the root site.
 
-bitetheapple Guides are guides not from other sources. Do not add sources for those guides in credits.
+2. Subdomains will NOT enforce HTTPS, but they show as encrypted with a valid cert anyway. Do not worry.
+
+3. bitetheapple Guides are guides not from other sources. Do not add sources for those guides in credits.
+
+--Updates--
+
+1. (1.) I have decided to take images of iPhones from AppleDB. For an iPhone 4, the link would be https://img.appledb.dev/device@preview/iPhone3,1/0.webp.
