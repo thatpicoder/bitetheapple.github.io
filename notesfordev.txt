@@ -1,0 +1,5 @@
+For some reason, iPhone images do not load from the CDN. Planning on just getting the images straight from AppleDB, or hosting them here on the root site.
+
+Subdomains will NOT enforce HTTPS, but they show as encrypted with a valid cert anyway. Do not worry.
+
+bitetheapple Guides are guides not from other sources. Do not add sources for those guides in credits.
