@@ -6,6 +6,16 @@
 
 3. bitetheapple Guides are guides not from other sources. Do not add sources for those guides in credits.
 
+4. For bitetheapple buttons (the ones connected the "btn" class) have many different layers. It sometimes may be wrapped in 2 div elements, 1 div element, or no div elements. Here are all the definitions for bitetheapple buttons.
+
+· For bitetheapple buttons, it must be in the class "btn". The class "btn" is connected to titlepagebuttons.css (rename pending), which is what gives it the blye, rounded rectangle look.
+
+· If bitetheapple buttons are wrapped in a div element in the "button-group" class, then that means all the buttons in that div element will be grouped together ( | button1 |  | button2 |  | button3 |  | button4 | ).
+
+· If bitetheapple buttons are wrapped in a div element in the "center-wrapper" class, then that means all the buttons in that div element will be at the center of the site.
+
+· If bitetheapple buttons are wrapped in both div elements with the classes "button-group" and "center-wrapper" class, then that means all the buttons will be grouped together, at the center of the site, just like the index page.
+
 --Updates--
 
 1. (1.) I have decided to take images of iPhones from AppleDB. For an iPhone 4, the link would be https://img.appledb.dev/device@preview/iPhone3,1/0.webp.
