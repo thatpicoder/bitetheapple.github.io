@@ -23,6 +23,26 @@
       "category": "Games",
       "size": 2097152
     },
+
+    {
+      "name": "AfterFees",
+      "bundleIdentifier": "org.bitetheapple.afterfees",
+      "developerName": "bitetheapple",
+      "version": "1.0",
+      "versionDate": "2026-05-24",
+      "downloadURL": "https://github.com/thatpicoder/AfterFees/releases/download/v1.0/AfterFees.ipa",
+      "iconURL": "https://bitetheapple.org/altstore/icons/AfterFees.png",
+      "localizedDescription": "eBay seller fee calculator written in SwiftUI, with multiple fee options.",
+      "versionDescription": "• Initial release\n• Multiple fee options\n• Nice UI\n• Easter eggs",
+      "screenshotURLs": [
+        "https://bitetheapple.org/altstore/images/AfterFeesApp.png"
+      ],
+      "subtitle": "eBay seller fee calculator",
+      "tintColor": "#1134A6",
+      "category": "Utilities",
+      "size": 1370000
+    },
+    
 {
   "name": "Dopamine",
   "bundleIdentifier": "com.opa334.Dopamine",
