@@ -35,7 +35,9 @@
       "localizedDescription": "eBay seller fee calculator written in SwiftUI, with multiple fee options.",
       "versionDescription": "• Initial release\n• Multiple fee options\n• Nice UI\n• Easter eggs",
       "screenshotURLs": [
-        "https://bitetheapple.org/altstore/images/AfterFeesApp.png"
+        "https://bitetheapple.org/altstore/images/AfterFeesApp1.png",
+        "https://bitetheapple.org/altstore/images/AfterFeesApp2.png",
+        "https://bitetheapple.org/altstore/images/AfterFeesApp3.png",
       ],
       "subtitle": "eBay seller fee calculator",
       "tintColor": "#1134A6",
